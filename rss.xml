@@ -2,15 +2,16 @@
     <channel>
         <title><![CDATA[ForexFred]]></title>
         <description><![CDATA[ForexFred]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://forexfred.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 21:19:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 02 Mar 2016 19:29:35 GMT</lastBuildDate>
+        <atom:link href="http://forexfred.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined1a9632bd-4f63-48a9-9fe7-83c338ad4cdf/index.html</link>
+            <description><![CDATA[<p>EUR/AUD Into Big Support- Good Levels Overhead</p>]]></description>
+            <link>http://forexfred.com/1a9632bd-4f63-48a9-9fe7-83c338ad4cdf/index.html</link>
             <guid isPermaLink="false">1a9632bd-4f63-48a9-9fe7-83c338ad4cdf</guid>
-            <pubDate>Tue, 23 Feb 2016 21:19:05 GMT</pubDate>
+            <pubDate>Wed, 02 Mar 2016 19:29:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
